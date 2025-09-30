@@ -9,4 +9,8 @@ Dies ist ein Paragraph
   <li>test</li>
 </ul>
 
+<html markdown="1">
+  # heading1
+</html>
+
 und hier ist noch einer.
