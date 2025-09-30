@@ -1,14 +1,11 @@
-<style>
-  body {
-    color: #FCF3DC;
-    background-color: #43404B;
-  }
-</style>
-
 # Markdown Test!!
 Dies ist ein Paragraph
 
-
+<ul>
+  <li>Gallo</li>
+  <li>List</li>
+  <li>test</li>
+</ul>
 
 
 und hier ist noch einer.
