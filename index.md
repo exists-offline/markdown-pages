@@ -1,5 +1,3 @@
-<link 
-
 # Markdown Test!!
 Dies ist ein Paragraph
 
@@ -10,10 +8,7 @@ Dies ist ein Paragraph
 </ul>
 
 <style>
-  document {
-    background-color: blue;
-    color: white;    
-  }
+  document {background-color: blue; color: white;}
 </style>
 
 und hier ist noch einer.
