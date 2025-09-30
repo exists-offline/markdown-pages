@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Markdown Test!!
 Dies ist ein Paragraph
 
