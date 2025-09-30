@@ -10,7 +10,7 @@ Dies ist ein Paragraph
 </ul>
 
 <style>
-  body {background-color: blue}
+  document {background-color: blue}
 </style>
 
 und hier ist noch einer.
