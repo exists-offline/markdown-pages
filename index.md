@@ -8,7 +8,8 @@ Dies ist ein Paragraph
 </ul>
 
 <style>
-  document {background-color: blue; color: white;}
+  document {background-color: blue}
+  document {color: white}
 </style>
 
 und hier ist noch einer.
